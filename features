@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Features</title>
+    <link rel="stylesheet" href="./features.css">
+</head>
+<body>
+  <div class="bar">
+
+    <div class="home"><a href="../Homepage/index.html">Home</a></div>
+  </div>
+    <section class="features">
+  <div class="feature-cont">
+    <div class="feature">
+      <div class="icon01">📝</div>
+      <a href="Habits.html"><h3>Track Effortlessly</h3></a>
+      <p>Track your habits and progress daily<br>to achieve your goals</p>
+    </div>
+
+    <div class="feature">
+      <div class="icon02">📈</div>
+      <a href="trends.html"><h3>Analyze Trends</h3></a>
+      <p>Analyze trends and<br>performance for you</p>
+    </div>
+
+    <div class="feature">
+      <div class="icon03">🏆</div>
+      <a href="Level.html"><h3>Your Level</h3></a>
+      <p>Have a look on your level</p>
+    </div>
+
+    <div class="feature">
+      <div class="icon04">☑️</div>
+      <a href="ToDoList.html"><h3>To-Do List</h3></a>
+      <p>Organize your routine<br>to achieve your goals</p>
+    </div>
+
+  </div>
+</section>
+<footer>
+<div class="footer">
+  <p>© 2026 BeLeaf. All rights reserved.</p><br>
+        <div class="socials">
+            <span>🌐 </span>
+            <span>🅾</span>
+
+        </div>
+</div>
+</footer>
+</body>
+</html>
