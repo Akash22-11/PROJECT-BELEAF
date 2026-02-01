@@ -1,1 +1,51 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="logo"><h1>🌱BELEAF</h1></div>
+    <Header class="navbar">
+    <hr>
+      <nav class="nav-links">
+      <a href="../other_pages/Features.html" class="btn">Dashboard</a>
+      <a href=".html" class="btn"><th>Game</th>
+      <a href="../other_pages/AboutUs.html" class="btn"><th>About Us</a>
+      <a href="../other_pages/login.html" class="btn"><th>Log In</a>
+    </nav>
+    <hr>
+    </Header>
+    <section class="body">
+        <div>
+            <img src="WhatsApp Image 2025-12-15 at 21.53.29_05f08253.jpg" height="600px" width="1200px">
+    <H2> Build Better
+        <br>
+         Yourself Daily.
+    </H2>
+    <h3>
+        Track your progress , stay disciplined ,
+        <br> and achieve your goals with us.
+    </h3>
+        </div>
+    </section>
+    <hr>
+    
+        
+<hr>
+
+    </section>
+    <footer>
+        <p>© 2026 BeLeaf. All rights reserved.</p>
+        <div class="socials">
+            <span>🌐 </span>
+            <span>🅾</span>
+
+        </div>
+    </footer>
+
+</body>
+</html>
