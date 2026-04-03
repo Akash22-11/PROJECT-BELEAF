@@ -1,6 +1,6 @@
 # PROJECT-BELEAF
 
-# 🌿 Belif: Gamified Health & Task Tracker
+# 🌿 Belif: Gamified Health & Task Tracker;
 
 Belif is a comprehensive health and productivity application that makes staying healthy fun. It allows users to track their daily health metrics, manage their to-do lists, and maintain their daily "health streak" by playing an integrated game. 
 
